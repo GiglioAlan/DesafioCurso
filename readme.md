@@ -48,11 +48,3 @@ Atentem-se a modelagem de dados da tabela FATO e Dimensão.
 Na tabela FATO, pelo menos a métrica <b>valor de venda</b> é um requisito obrigatório.
 Nas dimensões deverá conter valores únicos, não deverá conter valores repetidos.
 para a dimensão tempo considerar o campo da TBL_VENDAS <b>Invoice Date</b>
-
-INSTRUÇÕES
-vocês deveram me entregar o projeto no github e por email (zip)
-meu email: cgomesf@minsait.com
-nome do email: DESAFIO MINSAIT BI/BIGDATA (Aluno)
-dentro deste email o zip e o link para o github onde estará o projeto.
-prazo limite: até <b>24/06/2023<b>
-Apos esta data não poderei considerar para a nota.
